@@ -1,4 +1,4 @@
-# ADVENTURE WORKS
+# ADVENTURE WORKS - Guided project
 
 ###  Description
 
